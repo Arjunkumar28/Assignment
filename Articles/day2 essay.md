@@ -11,14 +11,15 @@ The question is-"A man went on a trip with a fox, a goose and a sack of corn. He
 
 Answer for the Question is-"Take the goose over first and come back. Then take the fox over and bring the goose back. Now take the corn over and come back alone to get the goose. Take the goose over and the job is done".
 ## Problem solving and Mathematical Thinking
-  solution for Problem soving:
-**
+  solution for Problem soving
+
+
      * First we should understand the problems, for understanding we should read the problems two or three times otherwise read untill you und       erstand the problem.
      * we should not avoid the problems.
      * Then we should identify list the constraints.
      * we should list all the possible operation while solving the problem.
      * Then we should arrange the operation to form a solution.
- ** 
+  
   These are the step to find a solution for problem solving.
   The question is- Arrange the numbers 1-35 sum of any two numbers to get perfect square
   Answer for this is- Arrange all of the digits from the numbers 1 through 35 in such a order that the sum of any adjacent pair is a perfect square.There is no repeats.We should use some strategy and tricks to solve the problem.
