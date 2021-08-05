@@ -1,4 +1,4 @@
-# Day2 Experience in Internship_surfboard Payments
+## Day2 Experience in Internship_surfboard Payments
      * On day2 morning we wakes up at nearly 5'clock in morning and we written assignment about what we learnt in day1 classes.
      * After we went to office at nearly 9'clock in morning and we had the morning breakfast in the office.
      * Daily we are learning something useful to our carrier path and we are getting good experience in Surfboard Payments.
@@ -13,7 +13,6 @@ Answer for the Question is-"Take the goose over first and come back. Then take t
 ## Problem solving and Mathematical Thinking
   solution for Problem soving
 
-
      * First we should understand the problems, for understanding we should read the problems two or three times otherwise read untill you und       erstand the problem.
      * we should not avoid the problems.
      * Then we should identify list the constraints.
@@ -26,21 +25,26 @@ Answer for the Question is-"Take the goose over first and come back. Then take t
   Rules to solve the sudoku:
      First we should understand the sudoku,vertical and horizontal numbers should be 1-9 there should not be any repetation,then we should filled the all boxes.
 Afterwards we had some fun while doing the problems and we had some break time like Tea and coffee,then we continued to solve a problem after an hour we had the lunch break,then afternoon session started.
-  Solution for Mathematical Thinking:
+ **Solution for Mathematical Thinking:**
+
      * we should find a way for mathematical thinking-its should be most constrained part.
      * Then we should try the trail and error method while doing the sum.
      * Afterwards break down the problems while doing the sum.
      * Finally we should apply the correct strategy to do the sum,then we can able to find a solution for the sum.
-  These are the some step to find a solution for mathematical thinking.
-  Then mentor gives the puzzle to solve,in this totally 9 boxes in the order of  3x3 matrix,then we should arrange the numbers 1-8 in correct manner
+
+These are the some step to find a solution for mathematical thinking.
+Then mentor gives the puzzle to solve,in this totally 9 boxes in the order of  3x3 matrix,then we should arrange the numbers 1-8 in correct manner
+    
      * First we should find  the identify the train
      * Rotate the clockwise or anticlockwise untill we reach the terminals.
      * Then figure out the correct puzzle to find the answer.
+
 Afterwards we had some tea break and coffee break at evening and we had some fun in bread time,then evening session started.
 ### Installing the git application in linux/ubuntu
-  If you want to install the basic Git tools on Linux via a binary installer, you can generally do so through the package management tool that comes with your distribution. If you’re on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS).
+If you want to install the basic Git tools on Linux via a binary installer, you can generally do so through the package management tool that comes with your distribution. If you’re on Fedora (or any closely-related RPM-based distribution, such as RHEL or CentOS).
   "$ sudo apt install git-all"
  Step to sign up the git:
+
      * Go to browser and sign up in github, the website is" www.github.com/signup".
      * Then we should create an account in github.
      * Afterwards we should create a respository in github account, The name should be 'Assignment'
@@ -48,6 +52,7 @@ Afterwards we had some tea break and coffee break at evening and we had some fun
      * Then go inside the assignment folder, we should create another folder as 'Articles'
      * After creating articles folder, go inside the articles folder
      * we should create a text file in MD formet
+
 on day1,I saved the file in .txt formet,after i am using the pwd and rename command to changed into .txt to .md file formet and for its takes the long time to change. for some other person it comes lots of error, afterwards mentors try to solve the error. 
 we should give some command in terminals
      "git init"
