@@ -32,6 +32,7 @@ Every character in alphabet it contains the ASII code and Every Symbols it conta
 
 I learnt and I got some clarity to solve problems and writing algorithm for both we should have some basic step and tips to follow it.
 step:
+
 	* First we should understand the problems, for understanding we should read the problems two or three times otherwise read untill you understand the problem.
 	* we should not avoid the problems.
 	* Then we should identify list the constraints.
