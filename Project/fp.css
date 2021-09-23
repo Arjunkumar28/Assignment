@@ -1,0 +1,90 @@
+* {
+           padding: 0;
+           margin: 0;
+           font-family: sans-serif;
+   }
+
+
+   body {
+           background-color:white;
+           background-size: cover;
+  }
+
+
+    .f-p {
+          width:350px;
+          top:50%;
+          left:45%;
+          transform: translate(-50%, -50%);
+          position: absolute;
+          color: solid white;
+	 
+  }
+
+
+   .f-p fieldset {
+          font-size: 20px;
+          font-weight: none;
+          margin: 20px 0;
+          padding: 20px 60px;
+          width: 100%;
+          border-radius: 10px;
+	  border:1px solid black;
+	  color:black;	  
+
+	  
+  }
+
+  .edit{
+	  background-color:white;
+	  color:blue;
+	  text-align:center;
+  
+  
+  }
+
+
+
+   .f-p p {
+          font-size: 20px;
+          margin: 15px 0;
+}
+
+
+   .f-p input {
+          font-size: 16px;
+          width: 100%;
+          padding: 15px 10px;
+          border: 1px solid black;
+          outline: none;
+          border-radius: 10px;
+  }
+
+
+    .f-p button {
+          font-size: 15px;
+          font-weight: bold;
+          margin: 20px 0;
+          padding: 10px 15px;
+	  background-color: lightgrey;
+          width: 50%;
+          border-radius: 10px;
+  }
+
+   .f-p button:hover {
+	   background-color: #008CBA;
+	   color: white;
+	   transition-duration: 0.3s
+}
+   img {
+	  text-align: center;
+          margin: 24px 0 12px 0;
+          position: relative;
+          width: 20%;
+          border-radius: 50%;
+	  padding:10px;
+	  border:1px  solid black;
+	  background-color:white;
+  }
+
+

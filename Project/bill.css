@@ -1,0 +1,196 @@
+* {
+           padding: 0;
+           margin: 0;
+           font-family: sans-serif;
+   }
+   
+
+   .box{
+           display:flex;
+	   margin:auto;
+	   
+
+}
+
+
+  details > summary {
+
+  	  font-size: 20px;
+          font-weight: none;
+          margin: 20px 0;
+          padding: 10px 10px;          
+          border-radius: 10px;
+          background-color:white;
+	  color:black;
+	  width:75%;
+   
+  }
+
+   .button1 {
+          font-size: 20px;
+          font-weight: none;
+          margin: 30px 0;
+          padding: 10px 10px;
+          width: 80%;
+          border-radius: 10px;
+	  background-color:white;
+  }
+
+  .button2 {
+          font-size: 20px;
+          font-weight: none;
+          margin: 20px 0;
+          padding: 10px 10px;
+          width: 80%;
+          border-radius: 10px;
+          background-color:white;
+  }
+
+ 
+
+
+  .button3 {
+          font-size: 20px;
+          font-weight: none;
+          margin: 20px 0;
+          padding: 10px 10px;
+          width: 80%;
+          border-radius: 10px;
+          background-color:white;
+  }
+
+   .box1{
+	  
+	   background: url(background.jpeg) no-repeat;
+           width:26%;
+	   text-align:center;
+	   color:white;
+	   height:655px;
+   
+   }
+   .box1 h1{
+
+	   font-size: 20px;
+	   padding:5px 0;
+   
+   
+   }
+   .box1 hr{
+	   color:white;
+   
+   }
+   
+   img.avatar {
+          width: 35%;
+          border-radius: 50%;
+	  margin:30px;
+	  border:2px solid white;
+	  
+  }
+
+  .button1:hover {
+           background-color:#008CBA;
+           color: white;
+           transition-duration: 0.3s
+
+   }
+
+  .button2:hover {
+           background-color:green;
+           color: white;
+           transition-duration: 0.3s
+
+   }
+
+   .button3:hover {
+           background-color:red;
+           color: white;
+           transition-duration: 0.3s
+   }
+
+   .box2{
+
+           background-color:none;
+           width:100%;
+           text-align:front;
+           color:black;
+          
+   }
+   .top{
+
+
+	   width:96%;
+	   height:50px;
+	   position:relative;
+	   padding:20px 20px;
+	   font-size: 13px;
+           font-weight: bold;
+	   color:white;
+	  background: url(background.jpeg) no-repeat;
+
+   }
+
+   .log{
+   
+           width:15%;
+           height:50px;
+           position:absolute;
+	   top:15px; right:10px;
+	  
+   
+   }
+
+
+   .button4 {
+          font-size: 15px;
+          font-weight: none;
+          margin: 10px 0;
+          padding: 5px 5px;
+          width:80%;
+          border-radius: 20px;
+          background-color:white;
+  }
+
+
+  .button4:hover {
+           background-color:#008CBA;
+           color: white;
+           transition-duration: 0.3s
+   }
+   .bottom{
+
+	   padding:20px 20px;
+	   top:50%;
+	   left:50%;
+	   
+
+
+   }
+
+   .sb-logo{
+
+	   
+	   width:35%;
+	   padding:190px 0;
+	   margin: 20px 0;
+
+
+   }
+
+   
+   
+   
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
