@@ -61,7 +61,7 @@
 
    .box1{
 	  
-	   background: url(background.jpeg) no-repeat;
+	   background-color:darkblue;
            width:26%;
 	   text-align:center;
 	   color:white;
@@ -91,34 +91,32 @@
   .button1:hover {
            background-color:#008CBA;
            color: white;
-           transition-duration: 0.3s
+           transition-duration: 0.3s;
 
    }
 
   .button2:hover {
            background-color:green;
            color: white;
-           transition-duration: 0.3s
+           transition-duration: 0.3s;
 
    }
 
    .button3:hover {
            background-color:red;
            color: white;
-           transition-duration: 0.3s
+           transition-duration: 0.3s;
    }
 
    .box2{
 
            background-color:none;
            width:100%;
-           text-align:front;
            color:black;
           
    }
    .top{
-
-
+	   background-color:darkblue;
 	   width:96%;
 	   height:50px;
 	   position:relative;
@@ -126,7 +124,6 @@
 	   font-size: 13px;
            font-weight: bold;
 	   color:white;
-	  background: url(background.jpeg) no-repeat;
 
    }
 
